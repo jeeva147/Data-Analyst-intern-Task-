@@ -1,0 +1,16 @@
+Short Summary
+
+By completing this task, you will learn how to clean raw data by fixing issues like missing values,
+duplicates, and formatting problems. You will also practice using Excel  data cleaning,
+improve your understanding of data preprocessing, gain confidence in working with raw datasets,
+and produce a clean, well-structureddataset ready for analysis or modelling.
+
+Go-Through
+
+Identifying missing values
+Removing duplicates
+Fixing inconsistent formatting (text, dates, numbers)
+Using Excel functions for data cleaning
+Understanding data cleaning as part 
+Building confidence with raw datasets
+Creating a clean and structured dataset for analysis or modelling
